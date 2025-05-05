@@ -9,7 +9,7 @@
       margin: 0;
       padding: 0;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(135deg, #4facfe, #00f2fe);
+      background: linear-gradient(135deg, #2c2c2c, #1a1a1a);
       height: 100vh;
       display: flex;
       justify-content: center;
@@ -17,7 +17,7 @@
     }
 
     .login-box {
-      background-color: white;
+      background-color: Red;
       padding: 40px 30px;
       border-radius: 10px;
       box-shadow: 0 0 15px rgba(0,0,0,0.2);
