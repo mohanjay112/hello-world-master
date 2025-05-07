@@ -67,13 +67,13 @@
 </head>
 <body>
   <div class="login-box">
-    <h2>Login</h2>
+    <h2>L@gin</h2>
     <form action="#">
       <input type="text" placeholder="Username" required>
       <input type="password" placeholder="Password" required>
       <input type="submit" value="Login">
     </form>
-    <p>Don't have an account? <a href="#">Sign up</a></p>
+    <p>Don't have an account? <a href="#">Sign-jayup</a></p>
   </div>
 </body>
 </html>
