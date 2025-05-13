@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>L@gin</title>
+  <title>L@@@gin</title>
   <style>
     body {
       margin: 0;
@@ -67,10 +67,10 @@
 </head>
 <body>
   <div class="login-box">
-    <h2>Loadd Login</h2>
+    <h2> Login</h2>
     <form action="#">
-      <input type="text" placeholder="Username" required>
-      <input type="password" placeholder="Password" required>
+      <input type="text" placeholder="Enter Username" required>
+      <input type="password" placeholder="Enter Password" required>
       <input type="submit" value="Login">
     </form>
     <p>Don't have an account? <a href="#">Sign-jayup</a></p>
