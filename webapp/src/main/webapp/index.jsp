@@ -67,7 +67,7 @@
 </head>
 <body>
   <div class="login-box">
-    <h2>LOogin</h2>
+    <h2>gin</h2>
     <form action="#">
       <input type="text" placeholder="Username" required>
       <input type="password" placeholder="Password" required>
