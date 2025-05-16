@@ -73,7 +73,7 @@
       <input type="password" placeholder="Enter pass key" required>
       <input type="submit" value="Login">
     </form>
-    <p>Don't have an account? <a href="#">Sign-jayup</a></p>
+    <p>Don't have an account? <a href="#">Sign-up</a></p>
   </div>
 </body>
 </html>
