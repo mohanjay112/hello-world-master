@@ -67,10 +67,10 @@
 </head>
 <body>
   <div class="login-box">
-    <h2> Looooooogin</h2>
+    <h2> Login</h2>
     <form action="#">
-      <input type="text" placeholder="Enter Username" required>
-      <input type="password" placeholder="Enter Password" required>
+      <input type="text" placeholder="Enter Name" required>
+      <input type="password" placeholder="Enter pass key" required>
       <input type="submit" value="Login">
     </form>
     <p>Don't have an account? <a href="#">Sign-jayup</a></p>
