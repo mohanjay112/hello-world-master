@@ -75,5 +75,8 @@
     </form>
     <p>Don't have an account? <a href="#">Sign-up</a></p>
   </div>
+  <footer>
+	  <h5> THank you for Learning </h5>
+  </footer>
 </body>
 </html>
